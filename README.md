@@ -1,6 +1,7 @@
 
 <p align="center">
-<img src = [https://user-images.githubusercontent.com/104794290/170572503-270b673d-3e8c-41ea-98db-ef8f5b60d727.jpg width="800px](https://github.com/user-attachments/assets/448c9e43-0ac8-49ba-bbc1-729fc279fb13)" />
+<img src = ![image](https://github.com/user-attachments/assets/2a81ce81-2be7-4237-847e-6d8eb65e2d9c)
+" />
 
 
 Análise de Dados da NASA - Dados de Aproximação de Asteroides e Cometas.
