@@ -8,8 +8,7 @@ Leia mais sobre esse projeto no meu artigo.
 
 ## Artigo:
 
-* Análise de Dados da NASA - Dados de Aproximação de Asteroides e Cometas:
-* [Medium](https://medium.com/@leoguilherme/rastreando-o-c%C3%A9u-an%C3%A1lise-de-dados-da-nasa-dados-de-aproxima%C3%A7%C3%A3o-de-asteroides-e-cometas-d3e142107057)
+* [Análise de Dados da NASA - Dados de Aproximação de Asteroides e Cometas](https://medium.com/@leoguilherme/rastreando-o-c%C3%A9u-an%C3%A1lise-de-dados-da-nasa-dados-de-aproxima%C3%A7%C3%A3o-de-asteroides-e-cometas-d3e142107057)
 
 # Leonardo Guilherme Casteluber Schreder
 
