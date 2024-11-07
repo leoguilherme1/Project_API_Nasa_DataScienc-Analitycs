@@ -1,7 +1,4 @@
-
-<p align="center">
-<img src = ![image](https://github.com/user-attachments/assets/2a81ce81-2be7-4237-847e-6d8eb65e2d9c)
-" />
+![image](https://github.com/user-attachments/assets/f6b4edb0-a910-45b0-88c2-2ff24fcdb4ff)
 
 
 Análise de Dados da NASA - Dados de Aproximação de Asteroides e Cometas.
